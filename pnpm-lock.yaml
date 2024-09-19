@@ -259,8 +259,8 @@ importers:
         specifier: 0.5.5
         version: 0.5.5
       '@types/chrome':
-        specifier: ^0.0.268
-        version: 0.0.268
+        specifier: ^0.0.271
+        version: 0.0.271
       '@types/download':
         specifier: 8.0.5
         version: 8.0.5
@@ -2067,8 +2067,8 @@ importers:
         specifier: ^8
         version: 8.1.11(@types/react-dom@18.2.25)(@types/react@18.2.79)(encoding@0.1.13)(prettier@3.3.2)(react-dom@18.2.0)(react@18.2.0)
       '@types/chrome':
-        specifier: ^0.0.268
-        version: 0.0.268
+        specifier: ^0.0.271
+        version: 0.0.271
       '@types/dagre':
         specifier: ^0.7.52
         version: 0.7.52
@@ -19029,8 +19029,8 @@ packages:
       '@types/responselike': 1.0.3
     dev: true
 
-  /@types/chrome@0.0.268:
-    resolution: {integrity: sha512-7N1QH9buudSJ7sI8Pe4mBHJr5oZ48s0hcanI9w3wgijAlv1OZNUZve9JR4x42dn5lJ5Sm87V1JNfnoh10EnQlA==}
+  /@types/chrome@0.0.271:
+    resolution: {integrity: sha512-K0qgXvkwA5ic+/eygF1xiypHEvCoBgH5lwrhg3yva2mqJuCWyYm0vpZQ22GksAxgGfo0PWev9Zx3plp2clMlwg==}
     dependencies:
       '@types/filesystem': 0.0.36
       '@types/har-format': 1.2.15
